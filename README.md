@@ -8,5 +8,7 @@ Un blog de pruebas para el curso de git y github de platzi.
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Creado por Rodrigo
+* Incluye Ejemplos en windows,linux y mac 
+* Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas aca¡ NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
